@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\FORMATIONS\\5 - POE\\GK\\Project\\site\\back\\eshop\\wwwroot\\Images\\Crocodile.jpg",
+      "PackagePath": "staticwebassets\\Images\\Crocodile.jpg"
+    },
+    {
+      "Id": "D:\\FORMATIONS\\5 - POE\\GK\\Project\\site\\back\\eshop\\wwwroot\\Images\\cochon.jpg",
+      "PackagePath": "staticwebassets\\Images\\cochon.jpg"
+    },
+    {
+      "Id": "D:\\FORMATIONS\\5 - POE\\GK\\Project\\site\\back\\eshop\\wwwroot\\Images\\hipo.jpg",
+      "PackagePath": "staticwebassets\\Images\\hipo.jpg"
+    },
+    {
+      "Id": "D:\\FORMATIONS\\5 - POE\\GK\\Project\\site\\back\\eshop\\wwwroot\\Images\\koala.jpg",
+      "PackagePath": "staticwebassets\\Images\\koala.jpg"
+    },
+    {
+      "Id": "D:\\FORMATIONS\\5 - POE\\GK\\Project\\site\\back\\eshop\\wwwroot\\Images\\panda.jpg",
+      "PackagePath": "staticwebassets\\Images\\panda.jpg"
+    },
+    {
+      "Id": "D:\\FORMATIONS\\5 - POE\\GK\\Project\\site\\back\\eshop\\wwwroot\\Images\\vache.jpg",
+      "PackagePath": "staticwebassets\\Images\\vache.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.eshop.props",
+      "PackagePath": "build\\eshop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.eshop.props",
+      "PackagePath": "buildMultiTargeting\\eshop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.eshop.props",
+      "PackagePath": "buildTransitive\\eshop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.eshop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
